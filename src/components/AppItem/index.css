@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.img {
+  width: 100px;
+  height: 100px;
+}
+.list-item {
+  padding: 25px;
+  background-color: #ffffff;
+  margin: 20px;
+  border-radius: 10px;
+  text-align: center;
+}

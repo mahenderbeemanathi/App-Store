@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  font-family: roboto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #1e293b;
+}
+.tab-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.app-list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  background-color: transparent;
+  border-width: 0px;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-width: 2px;
+  border-style: solid;
+  padding: 5px;
+  border-radius: 5px;
+}
+.search-img {
+  width: 20px;
+  height: 20px;
+}

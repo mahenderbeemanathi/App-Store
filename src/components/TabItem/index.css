@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.button {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #dfe2e5;
+  border-width: 2px;
+  border-left: 0px;
+  border-right: 0px;
+  border-top: 0px;
+  color: #7b8794;
+}
+.active-button {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #2563eb;
+  border-width: 2px;
+  border-left: 0px;
+  border-right: 0px;
+  border-top: 0px;
+  color: #2563eb;
+}
